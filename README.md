@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **flask**
 
-- 👯 I’m looking to collaborate on **Machine_Sound_Diagnostic**
-
 - 🤝 I’m looking for help with **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://yash-protfolio-one-lac.vercel.app/](https://yash-protfolio-one-lac.vercel.app/)
