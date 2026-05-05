@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrajputs" alt="yashrajputs" /></a> </p>
 
-- 🌱 I’m currently learning **flask**
+- 🌱 I’m currently learning **System Desgin**
 
 - 🤝 I’m looking for help with **Spring Boot**
 
