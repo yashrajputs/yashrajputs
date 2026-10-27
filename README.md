@@ -24,9 +24,6 @@
 <a href="https://leetcode.com/u/yashrajput7182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
 <a href="https://www.topcoder.com/members/281001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40"/></a>
 </p>
-<img width="600" height="373" alt="coding-animation" src="https://github.com/user-attachments/assets/bf3a27c8-eb8a-4e68-b8b0-4ef84dc53a27" />
-<img width="600" height="373" alt="coding-animation" src="https://github.com/user-attachments/assets/c19576e8-2201-4210-bd6c-349d14eefb94" />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
