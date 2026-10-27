@@ -24,6 +24,8 @@
 <a href="https://leetcode.com/u/yashrajput7182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
 <a href="https://www.topcoder.com/members/281001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40"/></a>
 </p>
+<img width="600" height="373" alt="coding-animation" src="https://github.com/user-attachments/assets/bf3a27c8-eb8a-4e68-b8b0-4ef84dc53a27" />
+<img width="600" height="373" alt="coding-animation" src="https://github.com/user-attachments/assets/c19576e8-2201-4210-bd6c-349d14eefb94" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -43,6 +45,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 </p>
+</table><img width="600" height="373" alt="coding-animation" src="https://github.com/user-attachments/assets/1280a2f3-1945-45ea-a68b-0ea4a92af2e8" />
 
 <h3 align="center">GitHub Statistics</h3>
 
@@ -60,4 +63,4 @@
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajputs" alt="GitHub Streak Stats"/>
 </td>
 </tr>
-</table>
+
