@@ -46,4 +46,24 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vector
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+</p>
+
+<h3 align="center">GitHub Statistics</h3>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrajputs&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashrajputs&show_icons=true&locale=en" alt="GitHub Stats"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajputs" alt="GitHub Streak Stats"/>
+</td>
+</tr>
+</table>
