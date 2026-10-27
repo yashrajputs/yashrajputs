@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate backend and App developer from India</h3>
 
-<img width="557" height="740" alt="image" src="https://github.com/user-attachments/assets/635e06fa-a33f-4cb4-b0f4-64de0365469e" />
-
+<img width="740" height="557" alt="image" src="https://github.com/user-attachments/assets/635e06fa-a33f-4cb4-b0f4-64de0365469e" />
 
 - 🌱 I’m currently learning **System Desgin**
 
