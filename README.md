@@ -42,8 +42,14 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 </p>
-</table><img width="600" height="373" alt="coding-animation" src="https://github.com/user-attachments/assets/1280a2f3-1945-45ea-a68b-0ea4a92af2e8" />
-
+<p align="center">
+  <img
+    width="600"
+    height="373"
+    alt="coding-animation"
+    src="https://github.com/user-attachments/assets/1280a2f3-1945-45ea-a68b-0ea4a92af2e8"
+  />
+</p>
 <h3 align="center">GitHub Statistics</h3>
 
 <table width="100%">
