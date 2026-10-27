@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-<img width="100%" height="45%" alt="Coding animation" src="https://github.com/user-attachments/assets/1280a2f3-1945-45ea-a68b-0ea4a92af2e8"/>
+<img width="100%" height="35%" alt="Coding animation" src="https://github.com/user-attachments/assets/1280a2f3-1945-45ea-a68b-0ea4a92af2e8"/>
 </p>
 
 <h3 align="center">GitHub Statistics</h3>
